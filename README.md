@@ -1,5 +1,4 @@
-# Martingale Intelligence Framework (MIF)
-## Phase Transitions in Learning via Signal–Noise Consolidation
+# Martingale Intelligence Framework (MIF): Phase Transitions in Learning via Signal–Noise Consolidation
 
 ---
 
